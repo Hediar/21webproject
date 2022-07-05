@@ -1,0 +1,127 @@
+{
+  "configVersion": 1,
+  "timestamp": 1639458492705,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main.bd773d6917fbbae8.js",
+        "/manifest.webmanifest",
+        "/polyfills.b623e773dfd681cf.js",
+        "/runtime.b35605b75f464692.js",
+        "/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/apple-icon-180.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/icon.png",
+        "/assets/icons/manifest-icon-192.maskable.png",
+        "/assets/icons/manifest-icon-512.maskable.png",
+        "/assets/javascripts/bootstrap.min.js",
+        "/assets/javascripts/validation.js",
+        "/assets/stylesheets/all.min.css",
+        "/assets/stylesheets/bootstrap.min.css",
+        "/assets/stylesheets/style.css",
+        "/assets/webfonts/fa-brands-400.eot",
+        "/assets/webfonts/fa-brands-400.svg",
+        "/assets/webfonts/fa-brands-400.ttf",
+        "/assets/webfonts/fa-brands-400.woff",
+        "/assets/webfonts/fa-brands-400.woff2",
+        "/assets/webfonts/fa-regular-400.eot",
+        "/assets/webfonts/fa-regular-400.svg",
+        "/assets/webfonts/fa-regular-400.ttf",
+        "/assets/webfonts/fa-regular-400.woff",
+        "/assets/webfonts/fa-regular-400.woff2",
+        "/assets/webfonts/fa-solid-900.eot",
+        "/assets/webfonts/fa-solid-900.svg",
+        "/assets/webfonts/fa-solid-900.ttf",
+        "/assets/webfonts/fa-solid-900.woff",
+        "/assets/webfonts/fa-solid-900.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/apple-icon-180.png": "87d1c5cd6938931800e1ef1db9f96823f1113e46",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/icon.png": "1f1c77f5e01639955126ed320681c4b6accf8251",
+    "/assets/icons/manifest-icon-192.maskable.png": "83c2d4f4d7e195f984b3a959c65924670415bce9",
+    "/assets/icons/manifest-icon-512.maskable.png": "34d35e48fba047b24427f4632862bbfd5e484b49",
+    "/assets/javascripts/bootstrap.min.js": "0c4e8445f6f0c9611dc1c13dc6f085eb4bcaca0b",
+    "/assets/javascripts/validation.js": "ebbb7c2da019078e54499a866c9dce8c79e1c933",
+    "/assets/stylesheets/all.min.css": "a57ee68d11601b0fd8e5037fc241ff65a754473c",
+    "/assets/stylesheets/bootstrap.min.css": "8ed2d6350d23f857d92805737d0f97c675de666b",
+    "/assets/stylesheets/style.css": "c8ae31da01b95f09dc7e96a0f1926f12473d5bfb",
+    "/assets/webfonts/fa-brands-400.eot": "d1ffd6340cdbf72890ccb67f32015eafc5df51a7",
+    "/assets/webfonts/fa-brands-400.svg": "907bfbbe295332750575900984a00136de0f0e90",
+    "/assets/webfonts/fa-brands-400.ttf": "8ab907083fecaaa2a9ec93b27f884ad74573705c",
+    "/assets/webfonts/fa-brands-400.woff": "1e1f02bfa89e179fe2dd1383273b8812aa873418",
+    "/assets/webfonts/fa-brands-400.woff2": "0613c7ebba55ee47ef302c0f7766324692f899a7",
+    "/assets/webfonts/fa-regular-400.eot": "670fb01e4930ae46fe8d6d2b75ead288f54e8e61",
+    "/assets/webfonts/fa-regular-400.svg": "326e1d8f0b23f6df95cd6784fdf330bc6414ecd0",
+    "/assets/webfonts/fa-regular-400.ttf": "c34acd6818df6db6be41a2e331886765d601f2eb",
+    "/assets/webfonts/fa-regular-400.woff": "3ad4f4e4b1fb3edee3d4ba25e6cdfed2f0b88a54",
+    "/assets/webfonts/fa-regular-400.woff2": "13517529affa39e2585c591acae6dc336b6aa917",
+    "/assets/webfonts/fa-solid-900.eot": "ea845c59bee4a5c6db774b8d8060f5641b789ae9",
+    "/assets/webfonts/fa-solid-900.svg": "d92687d30fa0d43f9ae71009398507bf813a6875",
+    "/assets/webfonts/fa-solid-900.ttf": "eb8914f6b1797b45ee0883e6089d92695d9f9441",
+    "/assets/webfonts/fa-solid-900.woff": "a22acd7697f36e7d4cc31a853c70e776eac54bb1",
+    "/assets/webfonts/fa-solid-900.woff2": "0ccb2c814a7e4ca12c4778821633809cb0361eaa",
+    "/index.html": "c1b379f1e4d769cd91fc02a52e2a201fa0ee5592",
+    "/main.bd773d6917fbbae8.js": "35aa3c2f8b0b711bddbc979328ba6d514c784a41",
+    "/manifest.webmanifest": "cdc40abced7008e42fc16f10f293cf3c4330392e",
+    "/polyfills.b623e773dfd681cf.js": "145fe6ecec05840cbc3c7f3b5fdb95808166cc54",
+    "/runtime.b35605b75f464692.js": "d3330655b6cde2df1318171cddd3a19e7eaa5027",
+    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
