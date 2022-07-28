@@ -19,7 +19,7 @@ export class LocationDetailsComponent implements OnInit {
     reviewText: ''
   };
 
-  public googleAPIKey: string = 'AIzaSyAqWTqz2h4TZIdr347cguklfp0TaM6vrs4';
+  public googleAPIKey: string = 'api';
 
   public formVisible: boolean = false;
   
